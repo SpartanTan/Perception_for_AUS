@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # dataset
-/Stereo*/
+/final_project/Stereo*/
 
 # Distribution / packaging
 .Python
